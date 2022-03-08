@@ -1,7 +1,7 @@
 # CircuitTracer
 Allows user to use stack or queue to find the fastest possible solution to traverse the maze from 1 to 2. returns different boards with the fastest solution at the bottom. Feel free to try the different files includes endining with .dat 
 
-Example output: valid8.dat
+Example output: -s -c valid8.dat
 
 X O X X X X X X X O X <br />
 O 1 T T T T T T T T O <br />
