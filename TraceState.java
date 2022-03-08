@@ -4,6 +4,7 @@ import java.util.ArrayList;
 /**
  * Represents a search state including a potential path through a CircuitBoard
  * 
+ * author mvail
  */
 public class TraceState {
 	private CircuitBoard board;
