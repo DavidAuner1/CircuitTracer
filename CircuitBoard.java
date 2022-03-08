@@ -7,7 +7,7 @@ import java.util.Scanner;
 /**
  * Represents a 2D circuit board as read from an input file.
  *  
- * @author mvail
+ * @author DAuner
  */
 public class CircuitBoard {
 	/** current contents of the board */
