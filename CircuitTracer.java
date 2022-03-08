@@ -8,7 +8,7 @@ import java.util.ArrayList;
  * search state storage structure and displaying output to the console or to
  * a GUI according to options specified via command-line arguments.
  * 
- * @author mvail
+ * @author DAuner
  */
 public class CircuitTracer {
 	
