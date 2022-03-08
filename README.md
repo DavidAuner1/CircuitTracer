@@ -3,7 +3,7 @@ Allows user to use stack or queue to find the fastest possible solution to trave
 
 Example output: valid8.dat
 
-X O X X X X X X X O X 
+X O X X X X X X X O X <br />
 O 1 T T T T T T T T O 
 X O X X X O X X X T X 
 X O X O O O O O X T X 
